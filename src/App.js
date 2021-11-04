@@ -13,6 +13,7 @@ import CheckRegistrazione from './components/Registrati/CheckRegistrazione';
 import {BrowserRouter as Router, Redirect, Route, useHistory} from "react-router-dom";
 import WelcomePage from './components/Welcome/WelcomePage';
 
+// test
 
 function App() {
 
