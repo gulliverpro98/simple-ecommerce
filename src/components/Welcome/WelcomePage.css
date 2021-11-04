@@ -1,0 +1,32 @@
+.size{
+    height: 100vh;
+    background-image: url("wallpaperbetter.jpg");
+}
+
+.action-to{
+    padding-top: 2em;
+}
+
+.welcome-title{
+    padding-top: 2em;
+    font-family: 'Poppins';
+    font-weight: 900;
+    font-size: 4em;
+    color: #76320C;
+}
+
+.action-to a {
+    text-decoration: none;
+    color: #76320C;
+}
+
+.action-to a:hover {
+    color: black;
+}
+
+.login-home button{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 1.4em;
+    color: gray;
+}

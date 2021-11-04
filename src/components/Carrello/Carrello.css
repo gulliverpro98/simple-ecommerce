@@ -1,0 +1,50 @@
+.counter{
+    background-color: white;
+    color:black;
+}
+
+.split-page{
+    border-right: 1px solid black;
+    
+}
+
+.top{
+    margin-top: 5em;
+}
+
+.badge-alert{
+    margin-top: 3.625rem;
+}
+
+/* .btn{
+    width: 20em;
+    padding: 2em;
+} */
+
+.blob {
+	
+	margin: 10px;
+	height: 100px;
+	width: 200px;
+
+	box-shadow: 0 0 0 0 rgba(0, 0, 0, 1);
+	transform: scale(1);
+	animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+	0% {
+		transform: scale(0.95);
+		box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.7);
+	}
+
+	70% {
+		transform: scale(1);
+		box-shadow: 0 0 0 10px rgba(0, 0, 0, 0);
+	}
+
+	100% {
+		transform: scale(0.95);
+		box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+	}
+}

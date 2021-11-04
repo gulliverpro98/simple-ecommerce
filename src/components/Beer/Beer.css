@@ -1,0 +1,31 @@
+
+
+#showDetails{
+    display: block;
+    margin-bottom: 20px;
+}
+
+#descrizione{
+    margin-bottom: 20px;
+}
+
+.split-page{
+    border-right: 1px solid black;
+}
+
+.hide{
+    display: none;
+}
+
+.btn{
+    padding:0.10em 0.5em;
+    margin: 5px 5px;
+}
+
+.custom-div{
+    background-color: white;
+}
+
+.margin-top{
+    margin-top: 10em;
+}

@@ -1,0 +1,57 @@
+.bottom{
+    background-color: #333;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.price{
+    color:white;
+}
+
+.center{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.success{
+    color:green;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.container-success{
+    border-radius: 20px;
+    height: 100px;
+    width: 800px;
+    text-align: center;
+    background-color: #b6ff7a;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    
+}
+
+/* .smallDetail {
+    height: 650px;
+    width: 325px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+.custom-price{
+    font-weight: bold;
+}
+
+.home{
+    display: flex;
+    margin: 0 2em;
+}
+
+.position li{
+    margin: auto 2em auto 2em;
+    
+}

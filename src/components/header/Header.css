@@ -1,0 +1,35 @@
+.containerHeader{
+    background-color: gray;
+    text-align: center;
+}
+
+.titleHeader {
+    color: white;
+}
+
+.carrelloHeader {
+    color: white;
+}
+
+#cart-center{
+    margin-bottom: 5px;
+    width: 20px;
+}
+
+#color-nav{
+    background-color: #f5f5f5;
+    box-shadow: 10px 5px 5px red;
+}
+
+
+.home-button{
+    background-color: lawngreen;
+}
+
+.user-logo{
+    display: inline;
+}
+
+.custom-logo{
+    width: 4em;
+}
